@@ -36,7 +36,9 @@ We expect that our findings will contribute to culture change fostering more equ
 - We can do all the work asynchroniously online and communicate mainly via email and shared documents.  
 - For more details on how to contribute and how we deal with recognising everybodys’ contributions see our [CONTRIBUTION GUIDE](/CONTRIBUTING.md).   
 - We expect all project contributors to familiarise themselves and follow our [CODE OF CONDUCT](/CODE_OF_CONDUCT.md).   
-- If you would like to comment on this project or provide suggestions to improve it, feel free to reach directly to us via a dedicated Slack channel (invites will be sent to project participants who filled in the EOI form - see above) or via email (losialagisz@gmail.com or purgarfi@ualberta.ca).   
+- If you would like to comment on this project or provide suggestions to improve it, feel free to reach directly to us via a dedicated Slack channel 
+(invites will be sent to project participants who filled in the EOI form - see above) or via email 
+(losialagisz@gmail.com or purgarfi@ualberta.ca).   
 
 ## 🗺️ Roadmap   
 The project has three stages:  
@@ -49,7 +51,7 @@ The project has three stages:
 - Main data extraction from public awards descriptions.   
 - Data cross-checking.   
 
-### Stage 2: Analyses and writing   
+### Stage 3: Analyses and writing   
 - Analyses.   
 - Draft report.  
 - Contributors feedback.   
