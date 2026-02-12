@@ -7,8 +7,8 @@
 (If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/survey_best_paper_awards_followup/)🌍).   
 
 ## 🔖 Background   
-This follow-up study builds on an original paper, “Best Paper” awards lack transparency, inclusivity, and support for Open Science (https://doi.org/10.1371/journal.pbio.3002715).
-It is based on a preregistered protocol, Prodding Best Paper awards towards transparency and incentivising Open Science practices (10.17605/OSF.IO/EUYPK).   
+This follow-up study builds on an original paper, “Best Paper” awards lack transparency, inclusivity, and support for Open Science [here](https://doi.org/10.1371/journal.pbio.3002715).
+It is based on a preregistered protocol, Prodding Best Paper awards towards transparency and incentivising Open Science practices [here](10.17605/OSF.IO/EUYPK).   
  
 ## 🏹 Aims     
 This project aims aims to investigate effects of sending a "prodding" email to an awarding body with suggestions for improving transparency of a publicly available "Best paper" award information. Specific research questions:
@@ -61,7 +61,7 @@ The project has three stages:
 Stage 1: Gathering a team using EOI form [here](https://forms.gle/DVQAYqQSYjoM3TyQ8).  
 
 ## 🚀 Protocol   
-Final protocol is publicly archived on OSF [at]here](https://osf.io/euypk/overview).      
+Final protocol is publicly archived on OSF [here](https://osf.io/euypk/overview).      
 
 ## 🚚 Supporting information 
 Supporting information will be publicly available once the project is completed.  
