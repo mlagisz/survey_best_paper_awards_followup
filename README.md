@@ -7,19 +7,21 @@
 (If you are reading this on GitHub, you can also see this repository as a webpage [here](https://mlagisz.github.io/survey_best_paper_awards_followup/)🌍).   
 
 ## 🔖 Background   
-This follow-up study builds on an original paper, “Best Paper” awards lack transparency, inclusivity, and support for Open Science [here](https://doi.org/10.1371/journal.pbio.3002715).
-It is based on a preregistered protocol, Prodding Best Paper awards towards transparency and incentivising Open Science practices [here](10.17605/OSF.IO/EUYPK).   
+This follow-up study builds on an original paper, titled '“Best Paper” awards lack transparency, inclusivity, and support for Open Science' [here](https://doi.org/10.1371/journal.pbio.3002715).
+It is based on a preregistered protocol, titled 'Prodding Best Paper awards towards transparency and incentivising Open Science practices' [here](10.17605/OSF.IO/EUYPK).   
  
 ## 🏹 Aims     
-This project aims aims to investigate effects of sending a "prodding" email to an awarding body with suggestions for improving transparency of a publicly available "Best paper" award information. Specific research questions:
-1. Whether organisations (awarding bodies) receiving a prodding email reporting on their "Best paper" award description will improve transparency of the descriptions of their award in comparison to organisations that did not receive such email.
-2. Which aspects of the transparency of the descriptions of their "Best paper" award information will be potentially improved as result of receiving prodding emails.
+This project aims aims to investigate effects of sending a "prodding" email to an awarding body with suggestions for improving transparency of a publicly available "best paper" award information. Specific research questions:
+1. Whether organisations (awarding bodies) receiving a prodding email reporting on their "best paper" award description will improve transparency of the descriptions of their award in comparison to organisations that did not receive such email.
+2. Which aspects of the transparency of the descriptions of their "best paper" award information will be potentially improved as result of receiving prodding emails.
 
 ## 🍎 Approach   
 We will conduct a controlled follow-up audit of award descriptions drawn from a previously assessed sample of 222 “best paper” awards across 27 SCImago Subject Areas. 
-Half of the awarding bodies were randomly assigned to receive a structured prodding email (sent by ML on 8-9 June 2024) summarising the previous assessment results [here](https://doi.org/10.1371/journal.pbio.3002715) and offering actionable recommendations. The remaining awards were assigned as a control group and recived no communications.   
+Half of the awarding bodies were randomly assigned to receive a structured prodding email (sent by ML on 8-9 June 2024) 
+summarising the previous assessment results (published article [here](https://doi.org/10.1371/journal.pbio.3002715)) and offering actionable recommendations. 
+The remaining awards were assigned as a control group and received no communications.   
 
-We will follwoe the same extraction protocol as the original paper, but only for award descriptions - focusing on transparency, inclusivity, and explicit valuation of Open Science practices. 
+We will follow the same extraction protocol as the original paper, but only for award descriptions - focusing on transparency, inclusivity, and explicit valuation of Open Science practices. 
 Team members conducting data extractions will not be aware of which experimental group asessed award has been assigned to. As in the original project, all data will be extracted from publicly available online sources only and our findings will be openly available and disseminated in the research community.  
 
 **Important:** We will not extract any information on past awards winners, so the data collection will be much less time-consuming than in the original project.   
