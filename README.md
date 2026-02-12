@@ -8,7 +8,7 @@
 
 ## 🔖 Background   
 This follow-up study builds on an original paper, titled '“Best Paper” awards lack transparency, inclusivity, and support for Open Science' [here](https://doi.org/10.1371/journal.pbio.3002715).
-It is based on a preregistered protocol, titled 'Prodding Best Paper awards towards transparency and incentivising Open Science practices' [here](10.17605/OSF.IO/EUYPK).   
+It is based on a preregistered protocol, titled 'Prodding Best Paper awards towards transparency and incentivising Open Science practices' [here](https://doi.org/10.17605/OSF.IO/EUYPK).   
  
 ## 🏹 Aims     
 This project aims aims to investigate effects of sending a "prodding" email to an awarding body with suggestions for improving transparency of a publicly available "best paper" award information. Specific research questions:
