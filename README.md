@@ -17,7 +17,7 @@ This project aims aims to investigate effects of sending a "prodding" email to a
 
 ## 🍎 Approach   
 We will conduct a controlled follow-up audit of award descriptions drawn from a previously assessed sample of 222 “best paper” awards across 27 SCImago Subject Areas. 
-Half of the awarding bodies were randomly assigned to receive a structured prodding email (sent by ML on 8-9 June 2024) summarising the previous assessment results (https://doi.org/10.1371/journal.pbio.3002715) and offering actionable recommendations. The remaining awards were assigned as a control group and recibed no communications.   
+Half of the awarding bodies were randomly assigned to receive a structured prodding email (sent by ML on 8-9 June 2024) summarising the previous assessment results [here](https://doi.org/10.1371/journal.pbio.3002715) and offering actionable recommendations. The remaining awards were assigned as a control group and recived no communications.   
 
 We will follwoe the same extraction protocol as the original paper, but only for award descriptions - focusing on transparency, inclusivity, and explicit valuation of Open Science practices. 
 Team members conducting data extractions will not be aware of which experimental group asessed award has been assigned to. As in the original project, all data will be extracted from publicly available online sources only and our findings will be openly available and disseminated in the research community.  
